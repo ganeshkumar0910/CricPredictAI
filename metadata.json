@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CricPredict AI",
+  "description": "An advanced AI-powered cricket performance analytics tool that predicts batsman performance using Gemini AI based on pitch conditions, opponent strength, and ground history.",
+  "requestFramePermissions": []
+}
